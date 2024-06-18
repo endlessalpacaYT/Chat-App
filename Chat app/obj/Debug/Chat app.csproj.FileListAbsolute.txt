@@ -1,0 +1,7 @@
+D:\Visual Studio 2022\Chat app\Chat app\bin\Debug\Chat app.exe.config
+D:\Visual Studio 2022\Chat app\Chat app\bin\Debug\Chat app.exe
+D:\Visual Studio 2022\Chat app\Chat app\bin\Debug\Chat app.pdb
+D:\Visual Studio 2022\Chat app\Chat app\obj\Debug\Chat app.csproj.AssemblyReference.cache
+D:\Visual Studio 2022\Chat app\Chat app\obj\Debug\Chat app.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2022\Chat app\Chat app\obj\Debug\Chat app.exe
+D:\Visual Studio 2022\Chat app\Chat app\obj\Debug\Chat app.pdb
